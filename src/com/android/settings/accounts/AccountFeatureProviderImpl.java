@@ -1,6 +1,7 @@
 package com.android.settings.accounts;
 
 import android.accounts.Account;
+import android.accounts.AccountManager;
 import android.content.Context;
 
 import com.android.settings.R;
