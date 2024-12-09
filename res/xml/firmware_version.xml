@@ -60,14 +60,6 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.crdroidMaintainerPreferenceController"/>
 
-    <!-- crdroid Custom Source  -->
-    <Preference
-        android:key="crdroid_custom_source"
-        android:title="@string/crdroid_custom_source"
-        android:summary="DarkPhoenix"
-        settings:enableCopying="true"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.crdroidCustomPreferenceController"/>
-
     <!-- crdroid Build Type?  -->
     <Preference
         android:key="crdroid_build_type"
@@ -135,4 +127,5 @@
         android:selectable="false"
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.SimpleBuildNumberPreferenceController"/>
+
 </PreferenceScreen>
