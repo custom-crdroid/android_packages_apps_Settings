@@ -46,8 +46,5 @@
     <string name="search_menu">Search settings</string>
     <string name="search_menu_title">Search</string>
     <string name="search_settings">Search</string>
-
-        <!-- Crdroid custom Source -->
-    <string name="crdroid_custom_source">Custom Source By</string>
 </resources>
 
