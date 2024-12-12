@@ -18,13 +18,13 @@
     android:gravity="center"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:paddingTop="8dp">
+    android:paddingTop="3dp">
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:src="@drawable/crdroid"
+        android:src="@drawable/ic_crDroid_logo"
         android:adjustViewBounds="true"
         android:scaleType="centerInside" />
 
